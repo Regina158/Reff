@@ -27,7 +27,7 @@ const Carousel = () => {
                 ))}
             </div>
             <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50">
-                <h1 className="text-white text-3xl font-bold p-10 mt-32 ml-64 mr-56 text32xl "> DINAS KOMUNIKASI DAN INFORMATIKA KOTA TANJUNGPINANG</h1>        
+                <h1 className="text-white font-bold text-center p-10 mt-32 ml-64 mr-56 text-4xl "> DINAS KOMUNIKASI DAN INFORMATIKA KOTA TANJUNGPINANG</h1>        
             </div>
            
         </div>
